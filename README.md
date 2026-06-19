@@ -67,6 +67,6 @@ make
 
 - ## 📄 License
 
-      This project was developed as part of the C++ module at ESISA — 2025/2026.
+  This project was developed as part of the C++ module at ESISA — 2025/2026.
 
 
