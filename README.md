@@ -66,8 +66,3 @@ make
      | Abir Badaoui | Developer |
      | Mehdi Iraqui Houssaini | Supervisor |
 
-- ## 📄 License
-
-  This project was developed as part of the C++ module at ESISA — 2025/2026.
-
-
