@@ -2,8 +2,6 @@
 
 A fully featured chess game built with **C++** and **Qt6**, featuring a clean graphical interface and a built-in AI opponent.
 
----
-
 ## Features
 
 - **Two game modes** — Player vs Player and Player vs AI
@@ -22,15 +20,11 @@ A fully featured chess game built with **C++** and **Qt6**, featuring a clean gr
 - **Board flip** — automatically flips when playing as Black
 - **Fullscreen mode** — toggle with F11
 
----
-
 ## Requirements
 
 - Qt 6.x (or Qt 5.x with minor adjustments)
 - C++17 compatible compiler (GCC, Clang, MSVC)
 - qmake or CMake
-
----
 
 ## Build & Run
 
@@ -47,8 +41,6 @@ make
 ./chess-game
 ```
 
----
-
 ## Project Structure
 
 ```
@@ -59,16 +51,8 @@ make
 └── chess.pro         # Qt project file
 ```
 
----
-
 ## How It Works
 
 - `Plateau` handles the pure game logic — move validation, board state, draw conditions, and position evaluation.
 - `ChessBoard` is the Qt widget responsible for rendering and user interaction, and runs the AI via Minimax.
 - `MainWindow` wraps everything into a polished UI with menus, a status bar, and a chess clock.
-
----
-
-## License
-
-MIT License — feel free to use, modify, and share.
