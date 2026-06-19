@@ -56,7 +56,7 @@ make
 - `Plateau` handles the pure game logic — move validation, board state, draw conditions, and position evaluation.
 - `ChessBoard` is the Qt widget responsible for rendering and user interaction, and runs the AI via Minimax.
 - `MainWindow` wraps everything into a polished UI with menus, a status bar, and a chess clock.
-- 
+
 - ## 👥 Team
 
      | Name | Role |
@@ -67,6 +67,6 @@ make
 
 - ## 📄 License
 
-This project was developed as part of the C++ module at ESISA — 2025/2026.
+ This project was developed as part of the C++ module at ESISA — 2025/2026.
 
 
