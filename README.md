@@ -24,12 +24,6 @@ A fully featured chess game built with **C++** and **Qt6**, featuring a clean gr
 
 ---
 
-## Screenshots
-
-> _Add screenshots here_
-
----
-
 ## Requirements
 
 - Qt 6.x (or Qt 5.x with minor adjustments)
