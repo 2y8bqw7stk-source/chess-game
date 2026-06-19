@@ -64,6 +64,7 @@ make
      | Ali Alami Marktani | Developer |
      | Noha Mahfoudi | Developer |
      | Abir Badaoui | Developer |
+     | Mehdi Iraqui Houssaini | Supervisor |
 
 - ## 📄 License
 
