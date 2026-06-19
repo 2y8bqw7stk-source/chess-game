@@ -57,7 +57,7 @@ make
 - `ChessBoard` is the Qt widget responsible for rendering and user interaction, and runs the AI via Minimax.
 - `MainWindow` wraps everything into a polished UI with menus, a status bar, and a chess clock.
 
-- ## 👥 Team
+  ## 👥 Team
 
      | Name | Role |
      |------|------|
