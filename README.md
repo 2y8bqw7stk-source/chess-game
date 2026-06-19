@@ -59,13 +59,13 @@ make
 - 
 - ## 👥 Team
 
- | Name | Role |
- |------|------|
- | Ali Alami Marktani | Developer |
- | Noha Mahfoudi | Developer |
- | Abir Badaoui | Developer |
+     | Name | Role |
+     |------|------|
+     | Ali Alami Marktani | Developer |
+     | Noha Mahfoudi | Developer |
+     | Abir Badaoui | Developer |
 
-## 📄 License
+- ## 📄 License
 
 This project was developed as part of the C++ module at ESISA — 2025/2026.
 
